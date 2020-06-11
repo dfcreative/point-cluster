@@ -40,6 +40,7 @@
   "author": "Dmitry Yv <df.creative@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "array-bounds": "^1.0.1",
     "array-normalize": "^1.1.4",
     "binary-search-bounds": "^2.0.4",
     "clamp": "^1.0.1",
