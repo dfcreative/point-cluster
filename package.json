@@ -43,7 +43,7 @@
     "array-bounds": "^1.0.1",
     "array-normalize": "^1.1.4",
     "binary-search-bounds": "^2.0.4",
-    "bubleify": "^1.1.0",
+    "bubleify": "^2.0.0",
     "clamp": "^1.0.1",
     "defined": "^1.0.0",
     "dtype": "^2.0.0",
