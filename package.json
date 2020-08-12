@@ -42,7 +42,6 @@
   "dependencies": {
     "array-bounds": "^1.0.1",
     "binary-search-bounds": "^2.0.4",
-    "bubleify": "^1.1.0",
     "clamp": "^1.0.1",
     "defined": "^1.0.0",
     "dtype": "^2.0.0",
@@ -54,6 +53,7 @@
   },
   "devDependencies": {
     "almost-equal": "^1.1.0",
+    "bubleify": "^1.1.0",
     "canvas-fit": "^1.5.0",
     "gauss-random": "^1.0.1",
     "math-float64-bits": "^1.0.1",
